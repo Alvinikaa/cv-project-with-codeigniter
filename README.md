@@ -1,2 +1,2 @@
-# cv-project-with-codeigniter
+# cv
 create your own CV with codeigniter
